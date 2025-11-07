@@ -20,7 +20,7 @@
 
 ### 🌐 Conecte-se comigo
 <p align="left">
-  <a href="https://www.linkedin.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/murilomedeirosmachado" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
   </a>
   <a href="mailto:murilomedeirosmachado12@gmail.com" target="_blank" rel="noreferrer">
