@@ -84,3 +84,9 @@
     alt="Top Languages" 
   />
 </p>
+<div align="center">
+
+![snake gif](https://github.com/MuriloMMachado/MuriloMMachado/blob/output/github-snake-dark.svg)
+
+</div>
+
