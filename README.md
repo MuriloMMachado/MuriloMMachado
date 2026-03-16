@@ -70,7 +70,13 @@
     alt="murilommachado" 
   />
 </p>
----
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilommachado&layout=compact&theme=dracula&hide_border=true&langs_count=6" 
+    alt="Linguagens mais usadas" 
+  />
+</p>
 
 <div align="center">
 
