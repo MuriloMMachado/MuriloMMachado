@@ -8,8 +8,7 @@
 
 ---
 
-### 🚀 Sobre mim  
-- 🔭 Atualmente trabalhando na **Evamo-aftermarket**  
+### 🚀 Sobre mim    
 - 🌱 Aprendendo **Flutter e Dart** (para desenvolvimento web e mobile), **Supabase** (backend e autenticação),  
   **fundamentos de redes**, **gestão de infraestrutura**, **automação com Python e PowerShell** e boas práticas em  
   versionamento de software (**Commits Convencionais**)  
